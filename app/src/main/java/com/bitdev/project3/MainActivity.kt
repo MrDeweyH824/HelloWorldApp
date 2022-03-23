@@ -9,6 +9,7 @@ import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
 
+    //Test Commit Comment
     private lateinit var helloButton : Button
     private lateinit var changeTitleButton: Button
     private lateinit var toolbar: Toolbar
