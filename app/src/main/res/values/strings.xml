@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="hello">Hello</string>
+    <string name="world">world</string>
+    <string name="basic_android">This is basic Android Project</string>
+    <string name="hello_world">Hello World</string>
+    <string name="back">Go Back!</string>
+    <string name="change_title">Change Title</string>
+</resources>
